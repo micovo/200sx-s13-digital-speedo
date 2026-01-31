@@ -20,6 +20,17 @@
 		)
 		(uuid "3fce390b-9d7a-4f97-8957-3938ef99eacb")
 	)
+	(text "Page 7"
+		(exclude_from_sim no)
+		(at 203.2 104.14 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "432c5055-9a6f-4477-a2e5-378d5550c063")
+	)
 	(text "CONN3"
 		(exclude_from_sim no)
 		(at 148.59 97.79 0)
@@ -85,6 +96,17 @@
 			(justify left bottom)
 		)
 		(uuid "6d2e6b87-3b97-47e5-a2e8-dfae5f689224")
+	)
+	(text "Page 5 - 6"
+		(exclude_from_sim no)
+		(at 99.06 60.96 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "6da3ea52-9b5a-48b3-b9d3-f757ea9477dc")
 	)
 	(text "POWER"
 		(exclude_from_sim no)
@@ -195,6 +217,17 @@
 			(justify left bottom)
 		)
 		(uuid "e48902f7-3b94-4e9c-8c6d-1349879ae6ae")
+	)
+	(text "Page 2 - 4"
+		(exclude_from_sim no)
+		(at 99.06 104.14 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "e98d66d9-edc6-4e97-b557-75a7f0a86554")
 	)
 	(text "HUD\n2x4 HEADER"
 		(exclude_from_sim no)
@@ -466,7 +499,7 @@
 		(instances
 			(project "180sx-240sx-s13-digidash"
 				(path "/b719f779-5952-48c1-947f-4b13da7decde"
-					(page "4")
+					(page "2")
 				)
 			)
 		)
@@ -508,7 +541,7 @@
 		(instances
 			(project "180sx-240sx-s13-digidash"
 				(path "/b719f779-5952-48c1-947f-4b13da7decde"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
