@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Project backup folder
+180sx-240sx-s13-digidash-backups

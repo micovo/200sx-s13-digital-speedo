@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name Nissan_200sx)(type Legacy)(uri ${KIPRJMOD}/nissan-180sx-200sx-240sx.lib)(options "")(descr ""))
-  (lib (name 200sx-digi-dash-rescue)(type Legacy)(uri ${KIPRJMOD}/180sx-240sx-s13-digidash-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Nissan_200sx")(type "Legacy")(uri "${KIPRJMOD}/nissan-180sx-200sx-240sx.lib")(options "")(descr ""))
+  (lib (name "200sx-digi-dash-rescue")(type "Legacy")(uri "${KIPRJMOD}/180sx-240sx-s13-digidash-rescue.lib")(options "")(descr ""))
+  (lib (name "180sx-240sx-s13-digidash-rescue")(type "KiCad")(uri "${KIPRJMOD}/180sx-240sx-s13-digidash-rescue.kicad_sym")(options "")(descr ""))
 )

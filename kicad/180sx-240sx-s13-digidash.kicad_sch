@@ -1,0 +1,522 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b719f779-5952-48c1-947f-4b13da7decde")
+	(paper "A4")
+	(title_block
+		(date "2026-01-31")
+		(rev "REV3")
+	)
+	(lib_symbols)
+	(text "SPEEDOMETER\n6X2 HEADER"
+		(exclude_from_sim no)
+		(at 71.12 91.44 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "3fce390b-9d7a-4f97-8957-3938ef99eacb")
+	)
+	(text "CONN3"
+		(exclude_from_sim no)
+		(at 148.59 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56dc3ad4-41c6-4dfd-b7b0-12a90be94475")
+	)
+	(text "MPH/KMH SWITCH\n4 PIN HEADER"
+		(exclude_from_sim no)
+		(at 173.99 146.05 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "57025d31-e84f-4882-baa9-dee9fa2eb329")
+	)
+	(text "CONN6A"
+		(exclude_from_sim no)
+		(at 148.59 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a08237b-f412-4758-98d4-10823c6248e3")
+	)
+	(text "MAIN"
+		(exclude_from_sim no)
+		(at 125.73 91.44 0)
+		(effects
+			(font
+				(size 5.0038 5.0038)
+			)
+			(justify left bottom)
+		)
+		(uuid "6808b103-b152-4c44-9135-695b2721f9b1")
+	)
+	(text "NISSAN 180/240SX S13 Digital Speedometer"
+		(exclude_from_sim no)
+		(at 179.07 172.72 0)
+		(effects
+			(font
+				(size 2.9972 2.9972)
+			)
+			(justify left bottom)
+		)
+		(uuid "6cf4d36e-ce57-4446-8799-6f3b3efa81a2")
+	)
+	(text "blog.michalhrouda.cz"
+		(exclude_from_sim no)
+		(at 233.68 186.69 0)
+		(effects
+			(font
+				(size 2.9972 2.9972)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d2e6b87-3b97-47e5-a2e8-dfae5f689224")
+	)
+	(text "POWER"
+		(exclude_from_sim no)
+		(at 121.92 48.26 0)
+		(effects
+			(font
+				(size 5.0038 5.0038)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d78de9f-49b5-4c1e-b0d2-d6607cb8a8ba")
+	)
+	(text "8 PIN\nCABLE"
+		(exclude_from_sim no)
+		(at 184.15 91.44 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "900dc993-3141-4ece-aa02-7855479ae288")
+	)
+	(text "ODOMETER\n6 PIN HEADER"
+		(exclude_from_sim no)
+		(at 173.99 132.08 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "903b09f6-2896-41ab-a103-09a4b4844291")
+	)
+	(text "Revision notes:\n\nREV2\nPower + Main - HUB_POWER_ENABLE renamed to HUD_POWER_ENABLE (Typo)\nHIC1 - TR2, TR3, TR4 transitor naming fixed from DTC114TCA to DTC144TCA\nHIC1 - TR1, TR2, TR3, TR4 transitor schematic symbol changed from BEC to EBC (Swapped base-emitter numbering fixed)\n"
+		(exclude_from_sim no)
+		(at 16.51 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9144c04e-f5ae-4813-bd03-1c0001cdda18")
+	)
+	(text "CONN2"
+		(exclude_from_sim no)
+		(at 161.29 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa59f75a-a249-410b-a3e2-ff15ea2975f5")
+	)
+	(text "VFD"
+		(exclude_from_sim no)
+		(at 217.17 91.44 0)
+		(effects
+			(font
+				(size 5.0038 5.0038)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5fd2abe-754a-442f-a827-6994e3854f48")
+	)
+	(text "14 PIN\nBOARD-TO-BOARD"
+		(exclude_from_sim no)
+		(at 138.43 69.85 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca306d3c-2a37-460e-8114-c3540b3e978e")
+	)
+	(text "CONN1"
+		(exclude_from_sim no)
+		(at 101.6 91.44 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d089b38f-425a-48ca-b46e-f53b7f3fb067")
+	)
+	(text "CONN4"
+		(exclude_from_sim no)
+		(at 135.89 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2d79d2c-a1b4-4160-a714-7e07aa9d46ea")
+	)
+	(text "CONN6B"
+		(exclude_from_sim no)
+		(at 148.59 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e48902f7-3b94-4e9c-8c6d-1349879ae6ae")
+	)
+	(text "HUD\n2x4 HEADER"
+		(exclude_from_sim no)
+		(at 173.99 116.84 0)
+		(effects
+			(font
+				(size 2.0066 2.0066)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0074e00-20a5-4172-8e6d-6241e84263db")
+	)
+	(polyline
+		(pts
+			(xy 135.89 77.47) (xy 135.89 55.88)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "1ce7b21c-5469-4737-984e-394482511a46")
+	)
+	(polyline
+		(pts
+			(xy 203.2 138.43) (xy 143.51 138.43)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "45d76900-64cb-44d9-8af0-f4446b65e934")
+	)
+	(polyline
+		(pts
+			(xy 168.91 77.47) (xy 168.91 55.88)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "6047de84-29d7-4261-9369-ea1e77163154")
+	)
+	(polyline
+		(pts
+			(xy 203.2 109.22) (xy 168.91 109.22)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "6579dbaa-7539-46a2-b5ce-479ee8c88cca")
+	)
+	(polyline
+		(pts
+			(xy 147.32 133.35) (xy 147.32 99.06)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "67b3385a-004c-4f2e-99bf-27e4a8f9472c")
+	)
+	(polyline
+		(pts
+			(xy 203.2 83.82) (xy 173.99 83.82)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "70267304-eee3-48dc-82b2-ea778ccc0b4d")
+	)
+	(polyline
+		(pts
+			(xy 203.2 133.35) (xy 147.32 133.35)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "781284ee-06ea-41dd-b733-a0935cf10f13")
+	)
+	(polyline
+		(pts
+			(xy 168.91 109.22) (xy 168.91 99.06)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "921641cd-f13a-46eb-900b-ca7152515213")
+	)
+	(polyline
+		(pts
+			(xy 203.2 118.11) (xy 160.02 118.11)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "939bb6d9-40b5-4e19-b319-504cc1371309")
+	)
+	(polyline
+		(pts
+			(xy 99.06 92.71) (xy 68.58 92.71)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "96b3742e-84d9-42a0-b918-916b0491b4f7")
+	)
+	(polyline
+		(pts
+			(xy 160.02 99.06) (xy 160.02 118.11)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "9c35699c-91e3-466d-8598-79641bd15525")
+	)
+	(polyline
+		(pts
+			(xy 203.2 92.71) (xy 173.99 92.71)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "af3681ad-ec2f-4d5f-9b0c-80392244d1a0")
+	)
+	(polyline
+		(pts
+			(xy 203.2 147.32) (xy 134.62 147.32)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "b0058714-ccea-4ca4-9317-753fdfe96bb8")
+	)
+	(polyline
+		(pts
+			(xy 156.21 99.06) (xy 156.21 124.46)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "c93f45bb-a259-48cf-a372-400a18219efa")
+	)
+	(polyline
+		(pts
+			(xy 134.62 99.06) (xy 134.62 147.32)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "cec0d119-e595-42a9-a8d5-cc9d3307dca4")
+	)
+	(polyline
+		(pts
+			(xy 143.51 99.06) (xy 143.51 138.43)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "d90130d7-f4d8-49cb-9235-258b13db6a50")
+	)
+	(polyline
+		(pts
+			(xy 203.2 124.46) (xy 156.21 124.46)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "daca6581-af39-417f-aa5e-09f68bd58a1c")
+	)
+	(polyline
+		(pts
+			(xy 97.79 83.82) (xy 68.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "e85374e0-3153-4cb8-acf8-6512d6f98a4b")
+	)
+	(sheet
+		(at 203.2 77.47)
+		(size 43.18 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061f505fa")
+		(property "Sheetname" "DisplayBoard"
+			(at 203.2 76.3901 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DisplayBoard.kicad_sch"
+			(at 203.2 99.7462 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "180sx-240sx-s13-digidash"
+				(path "/b719f779-5952-48c1-947f-4b13da7decde"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 77.47)
+		(size 74.93 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061f68783")
+		(property "Sheetname" "MainBoard"
+			(at 99.06 76.3901 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainBoard.kicad_sch"
+			(at 99.06 99.7462 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "180sx-240sx-s13-digidash"
+				(path "/b719f779-5952-48c1-947f-4b13da7decde"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 34.29)
+		(size 74.93 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061f68c90")
+		(property "Sheetname" "PowerBoard"
+			(at 99.06 33.2101 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerBoard.kicad_sch"
+			(at 99.06 56.4646 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "180sx-240sx-s13-digidash"
+				(path "/b719f779-5952-48c1-947f-4b13da7decde"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
